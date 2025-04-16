@@ -90,6 +90,8 @@ python manage.py runserver
 Visit http://127.0.0.1:8000/admin to access the admin panel.
 
 
+
+
 ### 📘 Short Definitions (Revision Cheatsheet)
 
 ## Model
