@@ -60,7 +60,7 @@ This is a beginner-friendly Django-based **E-commerce web application** develope
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/ecomstore.git
+git clone https://github.com/Zubii07/Django.git
 
 
 ### 2. Create and activate virtual environment
